@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-    <project path="build/make" name="platform_build_make" remote="beast">
+    <project path="build/make" name="platform_build_make" remote="atom">
         <copyfile src="core/root.mk" dest="Makefile" />
         <linkfile src="CbeastSpec.mk" dest="build/CbeastSpec.mk" />
         <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
@@ -11,13 +11,13 @@
         <linkfile src="tools" dest="build/tools" />
     </project>
   
-    <project path="bionic" name="platform_bionic" remote="beast" />
-    <project path="bootable/recovery" name="platform_bootable_recovery" remote="beast"/>
-    <project path="build/soong" name="platform_build_soong" remote="beast">
+    <project path="bionic" name="platform_bionic" remote="atom" />
+    <project path="bootable/recovery" name="platform_bootable_recovery" remote="atom"/>
+    <project path="build/soong" name="platform_build_soong" remote="atom">
         <linkfile src="root.bp" dest="Android.bp" />
         <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
     </project>
 	
-    <project path="art" name="platform_art" remote="beast" />
+    <project path="art" name="platform_art" remote="atom" />
   
 </manifest>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="hardware/qcom/bootctrl" name="platform_hardware_qcom_bootctrl" remote="atom" />
+  <project path="hardware/qcom/camera" name="platform_hardware_qcom_camera" remote="atom" />
+  <project path="hardware/qcom/data/ipacfg-mgr" name="android_hardware_qcom_data_ipacfg-mgr" remote="lineage" />
+  <project path="hardware/qcom/fm" name="platform_hardware_qcom_fm" remote="atom" />
+  <project path="hardware/qcom/power" name="platform_hardware_qcom_power" remote="atom" />
+  <project path="hardware/qcom/thermal" name="platform_hardware_qcom_thermal" remote="atom" />
+  <project path="hardware/qcom/vr" name="platform_hardware_qcom_vr" remote="atom" />
+  <project path="hardware/qcom/audio-caf/msm8996" name="platform_hardware_qcom_audio" groups="qcom,qcom_audio" remote="atom" revision="pie-caf-8996" />
+  <project path="hardware/qcom/audio-caf/msm8998" name="platform_hardware_qcom_audio" groups="qcom,qcom_audio" remote="atom" revision="pie-caf-8998" />
+  <project path="hardware/qcom/audio-caf/sm8150" name="platform_hardware_qcom_audio" groups="qcom,qcom_audio" remote="atom" revision="pie-caf-8150" />
+  <project path="hardware/qcom/display-caf/msm8996" name="platform_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="atom" revision="pie-caf-8996" />
+  <project path="hardware/qcom/display-caf/msm8998" name="platform_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="atom" revision="pie-caf-8998" />
+  <project path="hardware/qcom/display-caf/sm8150" name="platform_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="atom" revision="pie-caf-8150" />
+  <project path="hardware/qcom/media-caf/msm8996" name="platform_hardware_qcom_media" groups="qcom" remote="atom" revision="pie-caf-8996" />
+  <project path="hardware/qcom/media-caf/msm8998" name="platform_hardware_qcom_media" groups="qcom" remote="atom" revision="pie-caf-8998" />
+  <project path="hardware/qcom/media-caf/sm8150" name="platform_hardware_qcom_media" groups="qcom" remote="atom" revision="pie-caf-8150" />
+  <project path="hardware/qcom/bt" name="platform_hardware_qcom_bt" remote="atom" />
+  <project path="hardware/qcom/bt-caf" name="platform_hardware_qcom_bt" remote="atom" revision="pie-caf" />
+  <project path="hardware/qcom/gps" name="platform_hardware_qcom_gps" remote="atom" />
+  <project path="hardware/qcom/wlan" name="platform_hardware_qcom_wlan" remote="atom" />
+  <project path="hardware/qcom/wlan-caf" name="platform_hardware_qcom_wlan" remote="atom" revision="pie-caf" />
+  <project path="hardware/interfaces" name="platform_hardware_interfaces" remote="atom" />
+  <project path="hardware/atom/interfaces" name="platform_hardware_atom_interfaces" remote="atom" />
+  <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="atom" />
+  <project path="hardware/libhardware_legacy" name="platform_hardware_libhardware_legacy" remote="atom" />
+  <project path="hardware/nxp/nfc" name="platform_hardware_nxp_nfc" remote="atom" />
+  <project path="hardware/ril" name="platform_hardware_ril" remote="atom" />
+  <project path="hardware/ril-caf" name="platform_hardware_ril" remote="atom" revision="pie-caf" /> 
+
+  <!-- Hardware repos -->
+  <project path="hardware/lineage/livedisplay" name="android_hardware_lineage_livedisplay" remote="lineage" />  
+
+  </manifest>

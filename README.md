@@ -2,12 +2,12 @@
  Getting Started:
  ==============
 
-To get started with manifest/BeastROMs, you'll need to get familiar with [Repo](https://source.android.com/source/using-repo.html) and Version Control with [Git](https://source.android.com/source/version-control.html).
+To get started with manifest/Atom-OS, you'll need to get familiar with [Repo](https://source.android.com/source/using-repo.html) and Version Control with [Git](https://source.android.com/source/version-control.html).
 
 To initialize your local repository, use a command like this:
 
 ```bash
-repo init -u https://github.com/BeastRoms/platform_manifest.git -b pie
+repo init -u https://github.com/Atom-OS/platform_manifest.git -b pie
 
 ```
 
@@ -18,15 +18,15 @@ repo sync -c -f --force-sync --optimized-fetch --no-tags --no-clone-bundle --pru
 ```
 
 ---------------------------------------------------------------------------------------
- Compilation of  BeastROMs:
+ Compilation of  Atom-OS:
  ==================
 
 From root directory of project, perform following commands in terminal
 
 ```bash
 $ . build/envsetup.sh
-$ lunch beast_$device-userdebug
-$ mka bacon beast
+$ lunch atom_$device-userdebug
+$ mka bacon atom
 ```
 
 
@@ -44,6 +44,7 @@ $ mka bacon beast
  * [**CypherOS**](https://github.com/CypherOS)
  * [**Xtended**](https://github.com/Xtended-Pie)
  * [**LeanOS**](https://github.com/LeanOS-Project)
+ * [**BeastRoms**](https://github.com/BeastRoms)
 
 ---------------------------------------------------------------------------------------
 
