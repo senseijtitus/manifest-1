@@ -12,6 +12,7 @@
     <project path="packages/apps/PackageInstaller" name="platform_packages_apps_PackageInstaller" remote="atom" />
     <project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="atom" />
     <project path="packages/apps/SmartNav" name="platform_packages_apps_SmartNav" remote="atom" />
+    <project path="packages/apps/Atom" name="platform_packages_apps_Atom" remote="atom" />
     <project path="packages/apps/SmartNavSettings" name="platform_packages_apps_SmartNavSettings" remote="atom" />
     <project path="packages/apps/Snap" name="platform_packages_apps_Snap" remote="atom" />
     <project path="packages/apps/Messaging" name="platform_packages_apps_Messaging" remote="atom" />	
