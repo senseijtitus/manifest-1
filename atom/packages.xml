@@ -25,6 +25,7 @@
     <project path="packages/services/Telephony" name="platform_packages_services_Telephony" remote="atom" />
     <project path="packages/services/Telecomm" name="platform_packages_services_Telecomm" remote="atom" />	
     <project path="packages/apps/OmniStyle" name="platform_packages_apps_OmniStyle" remote="atom" />
+    <project path="packages/apps/Updates" name="platform_packages_apps_Updates" remote="atom" />
     <project path="packages/apps/WeatherClient" name="platform_packages_apps_WeatherClient" remote="atom" />
     <project path="packages/apps/MusicFX" name="platform_packages_apps_MusicFX" remote="atom" />
 </manifest>
