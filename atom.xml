@@ -12,6 +12,10 @@
 
   <remote name="gitlab"
           fetch="https://gitlab.com/" />
+  
+   <remote name="pixel-gitlab"
+          fetch="https://gitlab.com/PixelExperience"
+          revision="pie" />
 
   <!-- Removed projects -->	   
   <include name="remove.xml" />
