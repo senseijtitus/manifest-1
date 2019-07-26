@@ -8,7 +8,7 @@
           sync-j="8" />
 
   <remote  name="atom-devices"
-           fetch="https://github.com/Atom-OS"
+           fetch="https://github.com/AtomOS-Devices"
            revision="pie" />
   
   <remote name="github"
