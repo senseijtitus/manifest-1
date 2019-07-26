@@ -26,7 +26,7 @@ From root directory of project, perform following commands in terminal
 ```bash
 $ . build/envsetup.sh
 $ lunch atom_$device-userdebug
-$ mka bacon atom
+$ mka bacon 
 ```
 
 
