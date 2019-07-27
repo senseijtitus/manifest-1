@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/NathanJF-VI/platform-manifest/master/atom/logo.jpeg" > 
+</p>
+
+---------------------------------------------------------------------------------------
  Getting Started:
  ==============
 
