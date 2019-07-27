@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------------
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/NathanJF-VI/platform-manifest/master/atom/logo.jpeg" > 
+<img src="https://raw.githubusercontent.com/NathanJF-VI/platform-manifest/pie/atom/logo.jpeg" > 
 </p>
 
 ---------------------------------------------------------------------------------------
