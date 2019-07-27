@@ -1,0 +1,90 @@
+[IMG]https://i.imgur.com/yguBI1k.png[/IMG]
+
+[CODE]#include <std_disclaimer.h>
+/*
+ * Your warranty is void.
+ *
+ * I am not responsible for bricked devices, Burned SD cards,
+ * thermonuclear war, Iron Man Dies, or you getting Pissed off because of alarm app failed. Please
+ * do some research if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at me for messing up your device, I will laugh at you.
+ */[/CODE]
+
+                                   Now that I'm done saving my Head, let's proceed :D
+
+
+[IMG]https://i.imgur.com/wMQDXgG.png[/IMG]
+AtomOS is a butter smooth Android aftermarket firmware. We handpicked the best features around and are adding some usefull features and some security stuffs
+Get ready to feel the power of atom features
+We aim to deliver an experience with stablity and performance features along with the useful things the community is accustomed to but sorry we say hell no to customasition
+
+[SIZE=+2]AtomOS Team[/SIZE]
+@saladasss
+@shobhit
+@mithravindan
+
+Design:
+@clythefreed
+
+[IMG]https://imgur.com/u4ykeiD.png[/IMG]
+ [B]FEATURES[B]
+- Custom qs tiles 
+- Q clock (accent based ) 
+- Q icons 
+- Atom fonts 
+- Custom battery icons 
+- Smart charging 
+- OP gestures 
+- Three finger gestures ( screenshot) 
+- Edge gestures 
+- Double tap to on the lockscreen / statusbar  to sleep
+- Lockscreen weather 
+- Music visualizer 
+- Media art cover 
+- Lockscreen charging info 
+- Smart Nav 
+- Full screen navigation 
+- Gapps included 
+- New layout in package installer 
+- Network traffic 
+- Custom qs header style 
+- Ambient display
+
+
+[SIZE=+1]Got an issue or suggestion? Reach us at[/SIZE]
+[B]Telegram[/B] [URL="https://telegram.me/AtomOSUpdates[/URL]
+
+[IMG]https://imgur.com/3quG5HI.png[/IMG]
+[B]AtomOS Source:[/B] [URL="https://github.com/Atom-OS"]AtomOS Source[/URL]
+[B]AtomOS Device Sources:[/B] [URL="https://github.com/AtomOS-Devices]AtomOS Devices[/URL]
+
+[IMG]https://imgur.com/bmX4My0.png[/IMG]
+[SIZE=+1][b]Clean Install[/b][/SIZE]
+- Backup all your data (Important)
+- Wipe /system, /data and cache.
+- Flash the ROM + GApps (Download link below)
+- Reboot
+
+[SIZE=+1][b]Updates[/b][/SIZE]
+- Flash ROM
+- Reboot!
+
+[IMG]https://imgur.com/xnL6AFz.png[/IMG]
+[B]ROM FOR (device):[/B] [URL]sf url here[/URL]
+[B]DEV:[/B] 
+
+[SIZE=+1]Credits[/SIZE]
+- Google for AOSP
+- SnapDrogan for CAF
+- LineageOS
+- AOSiP
+- DotOS
+- ArrowOS
+- PixelExperience
+- DirtyUnicorns
+- AospExtended
+- CypherOS
+- Xtended
+- LeanOS
+- BeastRoms
