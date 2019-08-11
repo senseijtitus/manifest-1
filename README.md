@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------------
 
 <p align="center">
-<img src="https://github.com/NathanJF-VI/platform_manifest/blob/pie/atom/logo.jpeg" > 
+<img src="https://github.com/Atom-OS/platform_manifest/blob/pie/atom/logo.jpeg" > 
 </p>
 
 ---------------------------------------------------------------------------------------
