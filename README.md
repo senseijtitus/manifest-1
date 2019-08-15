@@ -3,6 +3,9 @@
 <p align="center">
 <img src="https://github.com/Atom-OS/platform_manifest/blob/pie/atom/logo.jpeg" > 
 </p>
+
+# Atom-OS Project # 
+
 [![Download Atom-OS Project](https://img.shields.io/sourceforge/dt/atom-os-project.svg)](https://sourceforge.net/projects/atom-os-project/files/latest/download)
 
 
