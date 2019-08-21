@@ -20,6 +20,7 @@
     <project path="packages/services/Telephony" name="packages_services_Telephony" remote="atom" />
     <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="atom" />	
     <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="atom" />
+    <project path="packages/apps/Recorder" name="packages_apps_Recorder" remote="atom" />
     <project path="packages/apps/Updates" name="packages_apps_Updates" remote="atom" />
     <project path="packages/apps/WeatherClient" name="packages_apps_WeatherClient" remote="atom" />
     <project path="packages/apps/MusicFX" name="packages_apps_MusicFX" remote="atom" />
