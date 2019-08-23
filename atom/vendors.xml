@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-    <project path="vendor/atom" name="platform_vendor_atom" remote="atom" />
-    <project path="vendor/qcom/opensource/dataservices" name="platform_vendor_qcom_opensource_dataservices" remote="atom" />
-    <project path="vendor/qcom/opensource/cryptfs_hw" name="platform_vendor_qcom_opensource_cryptfs_hw" remote="atom" />
+    <project path="vendor/atom" name="vendor_atom" remote="atom" />
+    <project path="vendor/qcom/opensource/dataservices" name="vendor_qcom_opensource_dataservices" remote="atom" />
+    <project path="vendor/qcom/opensource/cryptfs_hw" name="vendor_qcom_opensource_cryptfs_hw" remote="atom" />
     <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="lineage" />
-    <project path="vendor/qcom/opensource/interfaces" name="platform_vendor_qcom_opensource_interfaces" remote="atom" />
-    <project path="vendor/qcom/opensource/dpm" name="platform_vendor_qcom_opensource_dpm" remote="atom" />
-    <project path="vendor/qcom/opensource/audio" name="platform_vendor_qcom_opensource_audio" remote="atom" />
-    <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" remote="atom" />
-    <project path="vendor/interfaces" name="platform_vendor_interfaces" remote="atom" />
+    <project path="vendor/qcom/opensource/interfaces" name="vendor_qcom_opensource_interfaces" remote="atom" />
+    <project path="vendor/qcom/opensource/dpm" name="vendor_qcom_opensource_dpm" remote="atom" />
+    <project path="vendor/qcom/opensource/audio" name="vendor_qcom_opensource_audio" remote="atom" />
+    <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="atom" />
+    <project path="vendor/interfaces" name="vendor_interfaces" remote="atom" />
     <project path="vendor/qcom/common" name="vendor_qcom_common" remote="atom" />
-    <project path="vendor/qcom/sdclang" name="platform_vendor_qcom_sdclang" remote="atom" />
+    <project path="vendor/qcom/sdclang" name="vendor_qcom_sdclang" remote="atom" />
     <project path="vendor/gapps" name="vendor_gapps" remote="pixel-gitlab" clone-depth="1" />
 	
     <project path="vendor/nxp/opensource/interfaces/nfc" name="android_vendor_nxp_interfaces_opensource_nfc" remote="lineage" />

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-    <project path="system/bt" name="platform_system_bt" remote="atom" />
-    <project path="system/core" name="platform_system_core" remote="atom" />
-    <project path="system/extras" name="platform_system_extras" remote="atom" />
-    <project path="system/qcom" name="platform_system_qcom" remote="atom" />
-    <project path="system/sepolicy" name="platform_system_sepolicy" remote="atom" />
-    <project path="system/vold" name="platform_system_vold" remote="atom" />
-    <project path="system/tools/dtbtool" name="platform_system_tools_dtbtool" remote="atom" />
-    <project path="system/update_engine" name="platform_system_update_engine" groups="pdk" remote="atom" />
+    <project path="system/bt" name="system_bt" remote="atom" />
+    <project path="system/core" name="system_core" remote="atom" />
+    <project path="system/extras" name="system_extras" remote="atom" />
+    <project path="system/qcom" name="system_qcom" remote="atom" />
+    <project path="system/sepolicy" name="system_sepolicy" remote="atom" />
+    <project path="system/vold" name="system_vold" remote="atom" />
+    <project path="system/tools/dtbtool" name="system_tools_dtbtool" remote="atom" />
+    <project path="system/update_engine" name="system_update_engine" groups="pdk" remote="atom" />
   </manifest>
