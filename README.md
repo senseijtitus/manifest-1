@@ -18,7 +18,7 @@ To get started with manifest/Atom-OS, you'll need to get familiar with [Repo](ht
 To initialize your local repository, use a command like this:
 
 ```bash
-repo init -u https://github.com/Atom-OS/platform_manifest.git -b pie
+repo init -u https://github.com/Atom-OS/android.git -b pie
 
 ```
 
