@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------
 
-<p align="center">
+#<p align="center">
 <img src="https://github.com/Atom-OS/platform_manifest/blob/pie/atom/logo.jpeg" > 
 </p>
 
