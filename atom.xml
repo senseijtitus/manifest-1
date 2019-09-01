@@ -16,6 +16,10 @@
    <remote name="pixel-gitlab"
           fetch="https://gitlab.com/PixelExperience"
           revision="pie" />
+   <remote name="atom-devices"
+          fetch="https://github.com/AtomOS-Devices"
+          revision="pie" />
+
 
   <!-- Removed projects -->	   
   <include name="remove.xml" />
