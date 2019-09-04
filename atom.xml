@@ -16,8 +16,13 @@
    <remote name="pixel-gitlab"
           fetch="https://gitlab.com/PixelExperience"
           revision="pie" />
+  
    <remote name="atom-devices"
           fetch="https://github.com/AtomOS-Devices"
+          revision="pie" />
+  
+  <remote name="atom-gitlab"
+          fetch="https://gitlab.com/thephotogenicbug"
           revision="pie" />
 
 
