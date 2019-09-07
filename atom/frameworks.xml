@@ -2,7 +2,7 @@
 <manifest>
 
     <project path="frameworks/av" name="frameworks_av" remote="atom" />
-    <project path="frameworks/base" name="frameworks_base" remote="atom" />
+    <project path="frameworks/base" name="android_frameworks_base" remote="atom" />
     <project path="frameworks/compile/mclinker" name="frameworks_compile_mclinker" remote="atom" />
     <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" remote="atom" />
     <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="atom" />
