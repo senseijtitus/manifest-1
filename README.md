@@ -14,14 +14,14 @@ To get started with manifest/Atom-OS, you'll need to get familiar with [Repo](ht
 To initialize your local repository, use a command like this:
 
 ```bash
-repo init -u https://github.com/Atom-OS/android.git -b android-9.0
+repo init -u https://github.com/Atom-OS/android.git -b pie
 
 ```
 
 Then to sync up:
 
 ```
-repo sync -jx
+repo sync -c -f --force-sync --optimized-fetch --no-tags --no-clone-bundle --prune -j8
 ```
 
 ---------------------------------------------------------------------------------------
