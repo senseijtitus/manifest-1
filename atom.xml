@@ -4,7 +4,7 @@
   <!-- Atom-OS remote -->
   <remote name="atom"
           fetch="https://github.com/Atom-OS"
-          revision="refs/heads/pie"
+          revision="refs/heads/android-9.0"
           sync-j="8" />
   
   <remote name="github"
