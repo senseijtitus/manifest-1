@@ -137,7 +137,7 @@
   <!-- Prebuilts -->
   <project path="prebuilts/abi-dumps/vndk" name="prebuilts_abi-dumps_vndk" remote="pixel" clone-depth="1" />
   <project path="prebuilts/clang/host/linux-x86" name="prebuilts_clang_host_linux-x86" remote="atom" clone-depth="1" />
-  <project path="prebuilts/openssl" name="android_prebuilts_openssl" remote="atom" clone-depth="1" />
+  <project path="prebuilts/openssl" name="prebuilts_openssl" remote="atom" clone-depth="1" />
   <project path="prebuilts/tools-lineage" name="prebuilts_tools-lineage" remote="atom" clone-depth="1" />      
 
   <!-- System Repos -->
