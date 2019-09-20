@@ -72,16 +72,16 @@
   <project path="external/tinycompress" name="external_tinycompress" remote="pixel" />
 
   <!-- Framework repos -->
-  <project path="frameworks/av" name="frameworks_av" remote="pixel" />
-  <project path="frameworks/base" name="frameworks_base" remote="pixel" />
-  <project path="frameworks/native" name="frameworks_native" remote="pixel" />
-  <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="pixel" />
-  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="pixel" />
+  <project path="frameworks/av" name="frameworks_av" remote="atom" />
+  <project path="frameworks/base" name="frameworks_base" remote="atom" />
+  <project path="frameworks/native" name="frameworks_native" remote="atom" />
+  <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="atom" />
+  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="atom" />
 
   <!-- General repos -->
-  <project path="art" name="art" remote="pixel" />
-  <project path="bionic" name="bionic" remote="pixel" />
-  <project path="build/make" name="build" remote="pixel">
+  <project path="art" name="art" remote="atom" />
+  <project path="bionic" name="bionic" remote="atom" />
+  <project path="build/make" name="build" remote="atom">
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
     <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
@@ -90,7 +90,7 @@
     <linkfile src="target" dest="build/target" />
     <linkfile src="tools" dest="build/tools" />
   </project>
-  <project path="build/soong" name="build_soong" remote="pixel">
+  <project path="build/soong" name="build_soong" remote="atom">
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
@@ -142,10 +142,10 @@
 
   <!-- System Repos -->
   <project path="system/bt" name="system_bt" remote="pixel" />
-  <project path="system/core" name="system_core" remote="pixel" />
-  <project path="system/netd" name="system_netd" remote="pixel" />
-  <project path="system/sepolicy" name="system_sepolicy" remote="pixel" />
-  <project path="system/update_engine" name="system_update_engine" remote="pixel" />
-  <project path="system/vold" name="system_vold" remote="pixel" />
+  <project path="system/core" name="system_core" remote="atom" />
+  <project path="system/netd" name="system_netd" remote="atom" />
+  <project path="system/sepolicy" name="system_sepolicy" remote="atom" />
+  <project path="system/update_engine" name="system_update_engine" remote="atom" />
+  <project path="system/vold" name="system_vold" remote="atom" />
 
 </manifest>
