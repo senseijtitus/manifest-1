@@ -97,7 +97,7 @@
   <project path="bootable/recovery" name="bootable_recovery" remote="pixel" />
   <project path="development" name="development" remote="pixel" />
   <!--project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="pixel" /-->
-  <project path="manifest" name="manifest" remote="pixel" />
+  <project path="manifest" name="manifest" remote="atom" />
   <project path="vendor/aosp" name="vendor_aosp" remote="atom" />
   <project path="vendor/gapps" name="vendor_gapps" remote="pixel-gitlab" clone-depth="1" />
   <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="atom" />
@@ -136,7 +136,9 @@
 
   <!-- Prebuilts -->
   <project path="prebuilts/abi-dumps/vndk" name="prebuilts_abi-dumps_vndk" remote="pixel" clone-depth="1" />
-  <project path="prebuilts/clang/host/linux-x86" name="prebuilts_clang_host_linux-x86" remote="pixel" clone-depth="1" />
+  <project path="prebuilts/clang/host/linux-x86" name="prebuilts_clang_host_linux-x86" remote="atom" clone-depth="1" />
+  <project path="prebuilts/openssl" name="android_prebuilts_openssl" remote="atom" clone-depth="1" />
+  <project path="prebuilts/tools-lineage" name="prebuilts_tools-lineage" remote="atom" clone-depth="1" />      
 
   <!-- System Repos -->
   <project path="system/bt" name="system_bt" remote="atom" />
