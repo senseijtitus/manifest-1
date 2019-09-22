@@ -53,7 +53,7 @@
   <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="atom" />
   <project path="vendor/qcom/opensource/audio" name="vendor_qcom_opensource_audio" remote="atom" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="vendor_qcom_opensource_cryptfs_hw" remote="atom" />
-  <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="vendor_qcom_opensource_data-ipa-cfg-mgr" remote="atom" />
+  <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="vendor_qcom_opensource_data-ipa-cfg-mgr" remote="pixel" />
   <project path="vendor/qcom/opensource/dataservices" name="vendor_qcom_opensource_dataservices" remote="atom" />
   <project path="vendor/qcom/opensource/interfaces" name="vendor_qcom_opensource_interfaces" remote="atom" />  
   <project path="vendor/qcom/opensource/thermal-engine" name="vendor_qcom_opensource_thermal-engine" remote="atom" />
