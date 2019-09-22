@@ -133,6 +133,7 @@
   <project path="packages/services/BuiltInPrintService" name="packages_services_BuiltInPrintService" remote="atom" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="atom" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="atom" />
+  <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="atom" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/abi-dumps/vndk" name="prebuilts_abi-dumps_vndk" remote="atom" clone-depth="1" />
