@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote name="pixel"
-          fetch="https://github.com/pe-wip"
-          revision="ten"
-          review="gerrit.pixelexperience.org" />
-
-  <remote name="pixel-devices"
-          fetch="https://github.com/PixelExperience-Devices"
-          revision="ten" />
-
   <remote name="pixel-gitlab"
           fetch="https://gitlab.com/PixelExperience"
           revision="ten" />
@@ -35,25 +26,25 @@
   <project path="hardware/qcom/bt-caf" name="hardware_qcom_bt-caf" remote="atom" />
   <project path="hardware/qcom/display-caf/msm8998" name="hardware_qcom_display-caf_msm8998" remote="atom" />
   <project path="hardware/qcom/display-caf/sdm845" name="hardware_qcom_display-caf_sdm845" remote="atom" />
-  <project path="hardware/qcom/fm" name="hardware_qcom_fm" remote="pixel" />
+  <project path="hardware/qcom/fm" name="hardware_qcom_fm" remote="atom" />
   <project path="hardware/qcom/media-caf/msm8998" name="hardware_qcom_media-caf_msm8998" remote="atom" />
   <project path="hardware/qcom/media-caf/sdm845" name="hardware_qcom_media-caf_sdm845" remote="atom" />
-  <project path="hardware/qcom/power" name="hardware_qcom_power" remote="pixel" />
-  <project path="hardware/qcom/thermal" name="hardware_qcom_thermal" remote="pixel" />
-  <project path="hardware/qcom/vr" name="hardware_qcom_vr" remote="pixel" />
-  <project path="hardware/qcom/wlan-caf" name="hardware_qcom_wlan-caf" remote="pixel" />
-  <project path="system/qcom" name="system_qcom" remote="pixel" />
-  <project path="system/tools/dtbtool" name="system_tools_dtbtool" remote="pixel" />
-  <project path="vendor/nxp/opensource/interfaces/nfc" name="vendor_nxp_interfaces_opensource_nfc" remote="pixel" />
-  <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="vendor_nxp_opensource_external_libnfc-nci" remote="pixel" />
-  <project path="vendor/nxp/opensource/commonsys/frameworks" name="vendor_nxp_opensource_frameworks" remote="pixel" />
-  <project path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" name="vendor_nxp_opensource_packages_apps_Nfc" remote="pixel" />
-  <project path="vendor/nxp/opensource/halimpl" name="vendor_nxp_opensource_halimpl" remote="pixel" />
-  <project path="vendor/nxp/opensource/hidlimpl" name="vendor_nxp_opensource_hidlimpl" remote="pixel" />
+  <project path="hardware/qcom/power" name="hardware_qcom_power" remote="atom" />
+  <project path="hardware/qcom/thermal" name="hardware_qcom_thermal" remote="atom" />
+  <project path="hardware/qcom/vr" name="hardware_qcom_vr" remote="atom" />
+  <project path="hardware/qcom/wlan-caf" name="hardware_qcom_wlan-caf" remote="atom" />
+  <project path="system/qcom" name="system_qcom" remote="atom" />
+  <project path="system/tools/dtbtool" name="system_tools_dtbtool" remote="atom" />
+  <project path="vendor/nxp/opensource/interfaces/nfc" name="vendor_nxp_interfaces_opensource_nfc" remote="atom" />
+  <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="vendor_nxp_opensource_external_libnfc-nci" remote="atom" />
+  <project path="vendor/nxp/opensource/commonsys/frameworks" name="vendor_nxp_opensource_frameworks" remote="atom" />
+  <project path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" name="vendor_nxp_opensource_packages_apps_Nfc" remote="atom" />
+  <project path="vendor/nxp/opensource/halimpl" name="vendor_nxp_opensource_halimpl" remote="atom" />
+  <project path="vendor/nxp/opensource/hidlimpl" name="vendor_nxp_opensource_hidlimpl" remote="atom" />
   <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="atom" />
   <project path="vendor/qcom/opensource/audio" name="vendor_qcom_opensource_audio" remote="atom" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="vendor_qcom_opensource_cryptfs_hw" remote="atom" />
-  <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="vendor_qcom_opensource_data-ipa-cfg-mgr" remote="pixel" />
+  <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="vendor_qcom_opensource_data-ipa-cfg-mgr" remote="atom" />
   <project path="vendor/qcom/opensource/dataservices" name="vendor_qcom_opensource_dataservices" remote="atom" />
   <project path="vendor/qcom/opensource/interfaces" name="vendor_qcom_opensource_interfaces" remote="atom" />  
   <project path="vendor/qcom/opensource/thermal-engine" name="vendor_qcom_opensource_thermal-engine" remote="atom" />
@@ -96,7 +87,7 @@
   </project>
   <project path="bootable/recovery" name="bootable_recovery" remote="atom" />
   <project path="development" name="development" remote="atom" />
-  <!--project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="pixel" /-->
+  <!--project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="atom" /-->
   <project path="manifest" name="manifest" remote="atom" />
   <project path="vendor/aosp" name="vendor_aosp" remote="atom" />
   <project path="vendor/gapps" name="vendor_gapps" remote="pixel-gitlab" clone-depth="1" />
