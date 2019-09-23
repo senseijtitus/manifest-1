@@ -1,5 +1,10 @@
 # Atom-OS Project 2019 #
 
+<p align="center"> 
+<img src="https://github.com/Atom-OS-Project/manifest/blob/ten/snippets/Atomlogo.jpeg" > 
+</p>
+
+
 ### Sync ###
 
 ```bash
