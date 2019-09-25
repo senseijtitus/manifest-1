@@ -92,6 +92,7 @@
   <project path="vendor/aosp" name="vendor_aosp" remote="atom" />
   <project path="vendor/gapps" name="vendor_gapps" remote="pixel-gitlab" clone-depth="1" />
   <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="atom" />
+   <project path="vendor/themes" name="vendor_themes" remote="atom" />
 
   <!-- Hardware repos -->
   <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" remote="atom" />
