@@ -1,7 +1,7 @@
 # Atom-OS Project 2019 #
 
 <p align="center"> 
-<img src="https://github.com/Atom-OS-Project/manifest/Atomlogo.jpeg" > 
+<img src="https://github.com/iamsaalim/manifest/blob/ten/snippets/Atomlogo.png" > 
 </p>
 
 
