@@ -3,7 +3,7 @@
 [![Download Atom-OS Project](https://img.shields.io/sourceforge/dt/atom-os-project.svg)](https://sourceforge.net/projects/atom-os-project/files/latest/download)
 
 <p align="center"> 
-<img src="https://github.com/iamsaalim/manifest/blob/ten/snippets/Atomlogo.png" > 
+<img src="https://github.com/Atom-OS-Project/manifest/blob/ten/snippets/Atomlogo.png" > 
 </p>
 
 
