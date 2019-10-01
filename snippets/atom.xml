@@ -89,7 +89,7 @@
   </project>
   <project path="bootable/recovery" name="bootable_recovery" remote="atom" />
   <project path="development" name="development" remote="atom" />
-  <!--project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="atom" /-->
+  <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="atom" /
   <project path="manifest" name="manifest" remote="atom" />
   <project path="vendor/aosp" name="vendor_aosp" remote="atom" />
   <project path="vendor/gapps" name="vendor_gapps" remote="atom-gitlab" clone-depth="1" />
