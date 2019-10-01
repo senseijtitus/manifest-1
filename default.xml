@@ -780,4 +780,7 @@
   <!-- Add all Atom repos -->
   <include name="snippets/atom.xml" />
 
+  <!-- Add some LineageOS repos -->
+  <include name="snippets/lineage.xml" />
+
 </manifest>
