@@ -49,6 +49,7 @@
   <project path="vendor/qcom/opensource/interfaces" name="vendor_qcom_opensource_interfaces" remote="atom" />  
   <project path="vendor/qcom/opensource/thermal-engine" name="vendor_qcom_opensource_thermal-engine" remote="atom" />
 
+
   <!-- External repos -->
   <project path="external/boringssl" name="external_boringssl" remote="atom" />
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="atom" />
@@ -61,6 +62,7 @@
   <project path="external/ntfs-3g" name="external_ntfs-3g" remote="atom" />
   <project path="external/selinux" name="external_selinux" remote="atom" />
   <project path="external/tinycompress" name="external_tinycompress" remote="atom" />
+
 
   <!-- Framework repos -->
   <project path="frameworks/av" name="frameworks_av" remote="atom" />
