@@ -14,6 +14,7 @@
   
 
   <!-- CodeAurora additions -->
+  <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="atom" />
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="atom" />
   <project path="device/qcom/sepolicy-legacy" name="device_qcom_sepolicy-legacy" remote="atom" />
   <project path="external/ant-wireless/ant_native" name="external_ant-wireless_ant_native" remote="atom" />
