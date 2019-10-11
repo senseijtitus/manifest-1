@@ -17,13 +17,13 @@
         <linkfile dest="build/target" src="target"/>
         <linkfile dest="build/tools" src="tools"/>
     </project>
-    <project name="build_soong" path="build/soong" remote="">
+    <project name="build_soong" path="build/soong" remote="atom">
         <linkfile dest="Android.bp" src="root.bp"/>
         <linkfile dest="bootstrap.bash" src="bootstrap.bash"/>
     </project>
 
     <!-- Qcom Sepolicy -->
-    <project name="device_qcom_sepolicy" path="device/qcom/sepolicy" remote="" />
+    <project name="device_qcom_sepolicy" path="device/qcom/sepolicy" remote="atom" />
 
     <!-- External -->
     <project name="android_external_ant-wireless_ant_native" path="external/ant-wireless/ant_native" remote="lineage" />
@@ -31,10 +31,10 @@
     <project name="android_external_ant-wireless_antradio-library" path="external/ant-wireless/antradio-library" remote="lineage" />
     <project name="android_external_exfat" path="external/exfat" remote="lineage" />
     <project name="android_external_ntfs-3g" path="external/ntfs-3g" remote="lineage" />
-    <project name="external_selinux" path="external/selinux" remote="" />
+    <project name="external_selinux" path="external/selinux" remote="atom" />
 
     <!-- Frameworks -->
-    <project name="frameworks_av" path="frameworks/av" remote="" />
+    <project name="frameworks_av" path="frameworks/av" remote="atom" />
     <project name="frameworks_base" path="frameworks/base" remote="atom" />
 
     <!-- Hardware -->
