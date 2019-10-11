@@ -761,5 +761,12 @@
   <project name="platform/vendor/qcom/thulium" path="device/qcom/msm8996" />
   <project name="platform/vendor/qcom/wlan" path="device/qcom/wlan" />
   <project name="toolchain/pgo-profiles" />
+
+   <!-- Remove -->
+  <include name="remove.xml" />
+
+  <!-- Atom -->
+  <include name="atom.xml" />  
+
 </manifest>
 
