@@ -1,4 +1,4 @@
-# Atom-OS Project 2019 #
+# Atom-OS CAF Project 2019 WIP #
 
 [![Download Atom-OS Project](https://img.shields.io/sourceforge/dt/atom-os-project.svg)](https://sourceforge.net/projects/atom-os-project/files/latest/download)
 
@@ -12,7 +12,7 @@
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/Atom-OS-Project/manifest -b ten
+repo init -u https://github.com/Atom-OS-Project/manifest -b ten-caf
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
